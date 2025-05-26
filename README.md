@@ -29,8 +29,8 @@ A React Native location tracking application built with Expo that allows users t
 1. **Clone the repository**
 
     ```bash
-   git clone https://github.com/Guichardx2/location-base.git
-   cd location-base
+   git clone https://github.com/Guichardx2/my-location-base.git
+   cd my-location-base
    npm install
 
 2. **Run the project**
