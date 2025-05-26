@@ -1,4 +1,4 @@
-# MyLocationBase
+# My Location Base
 
 A React Native location tracking application built with Expo that allows users to capture and store their GPS coordinates locally using SQLite database.
 
